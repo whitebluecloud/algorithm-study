@@ -1,7 +1,5 @@
 package programmers.stackqueue;
 
-import com.sun.javaws.exceptions.InvalidArgumentException;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
